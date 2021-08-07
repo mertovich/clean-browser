@@ -1,0 +1,10 @@
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\bin\Debug\Clear_browser.exe.config
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\bin\Debug\Clear_browser.exe
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\bin\Debug\Clear_browser.pdb
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.csproj.AssemblyReference.cache
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.Form1.resources
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.Properties.Resources.resources
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.csproj.GenerateResource.cache
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.csproj.CoreCompileInputs.cache
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.exe
+C:\Users\z\Documents\c#\Clear_browser\Clear_browser\obj\Debug\Clear_browser.pdb
